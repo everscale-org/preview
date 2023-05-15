@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeverscale_docs_website=self.webpackChunkeverscale_docs_website||[]).push([[1498],{1456:e=>{e.exports=JSON.parse('{"title":"ABI","slug":"arch/abi","permalink":"/preview/PR-331/arch/abi","navigation":{"previous":{"title":"Security","permalink":"/preview/PR-331/arch/security"},"next":{"title":"v2.0","permalink":"/preview/PR-331/arch/abi/2.0"}}}')}}]);
